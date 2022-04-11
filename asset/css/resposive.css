@@ -1,0 +1,9 @@
+@media (max-width: 739px) {
+    #header a{
+        font-size: 25px;
+        text-decoration: none;
+        padding: 15px;
+        color: #fff;
+    }
+    
+}
