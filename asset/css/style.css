@@ -30,6 +30,15 @@
     font-size: 50px;
 }
 
-.mon-dia a {
-    margin: 0 8px ;
+.cau-hoi{
+
+}
+
+.dap-an{
+    margin: 5px 0;
+    color: red;
+}
+
+.mon-ly a{
+    padding: 20px;
 }
